@@ -1360,7 +1360,7 @@
     },
     "R3": {
         "listed": true,
-        "version": "0.0.3"
+        "version": "1.3.0"
     },
     "Reactive.Streams": {
         "listed": true,
